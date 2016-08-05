@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="DONGLE_guide">请扫描左边的二维码并下载mirror dongle的控制客户端，然后设置dongle连接到外置的路由</string>	
+	<string name="Setting_Step">第一步:下载apk进行网络设置或者单按键进入下一页进行手动设置网络 \n  第二步: 单按进入下一页进行使用！</string>
+	<string name="main_network">网络设置</string>
+	<string name="main_app">应用程序</string>
+	<string name="main_guide">说明书</string>
+	<string name="main_system_setting">系统设置</string>
+	<string name="instr_introduction">1.Mirror Dongle 使用介绍 \n 通过使用 Mirror Dongle ，可以让Android，iOS设备推送图片，音乐，视频，屏幕 到 电视机、投影仪等大屏设备上</string>
+	<string name="instr_function">2.Mirror Dongle 提供的功能 \n DLNA 、AirPlay 、airmirror 、miracast</string>
+	<string name="instr_mode">3.Mirror Dongle 与外设采用双连接方式 \n 两种连接方式：AP(便携热点)，Router(路由器) \n AP : Mirror Dongle 自身产生的便携热点 \n Router : Mirror Dongle 连接外部的公用路由器</string>
+	<string name="instr_approach">4.设置 Mirror Dongle 连接到外部公用路由的方法 \n 1）在设置界面，扫描二维码下载客户端进行设置 \n 2） 在网络设置界面，通用鼠标手动设置</string>
+	<string name="instr_fragement">5.Mirror Dongle 页面切换的方法 \n 使用简单的单按键切换页面：DLNA，AirPlay，airmirror -> miracast -> Setting -> main -> DLNA，AirPlay，airmirror</string>
+</resources>

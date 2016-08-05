@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="cellwidth">240dp</dimen>
+	<dimen name="cellheight">240dp</dimen>
+	<dimen name="worklayoutheight">800dp</dimen>
+	<dimen name="worklayouttoLeft">0dp</dimen>
+	<dimen name="worklayouttoTop">50dp</dimen>
+	<dimen name="cellspace">3dp</dimen>
+	<dimen name="celloffsize">80dp</dimen>
+	<dimen name="cellicontotop">90dp</dimen>
+	<dimen name="cellicon">100dp</dimen>
+	<dimen name="cellicontoname">60dp</dimen>
+	<dimen name="cellnamesize">25dp</dimen>
+	<dimen name="allapp_totop">200dp</dimen>
+	<dimen name="allapp_height">200dp</dimen>
+	<dimen name="app_icon_size">80dp</dimen>
+    <dimen name="stateheight">70dp</dimen>
+    <dimen name="allapp_unit_width">150dp</dimen>
+    <dimen name="allapp_namesize">20dp</dimen>
+    <dimen name="main_top">90dp</dimen>
+    <dimen name="main_left">100dp</dimen>
+    <dimen name="main_right">100dp</dimen>
+</resources>
